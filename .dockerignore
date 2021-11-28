@@ -1,0 +1,6 @@
+.git
+.gitignore
+logs
+Dockerfile
+run_container.sh
+build_image.sh
